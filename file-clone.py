@@ -323,7 +323,7 @@ class __xxx__:
 
                         open('/sdcard/𝐴𝐾𝐴𝑆𝐻_CP.txt' , 'a').write('%s\n' % wrt)
 
-                  break
+                  
 			
              else:
 				continue
